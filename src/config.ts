@@ -43,11 +43,6 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: '预设按钮',
-      url: '预设链接',
-      external: false,
-    },
-    {
       name: '加入QQ群[朋克之心PЦПKΉΣΛЯƬ]',
       url: 'https://qm.qq.com/q/GsEPmCC9a0',
       external: true,
@@ -63,7 +58,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/PunkHeart_logo_image.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '朋克之心PЦПKΉΣΛЯƬ',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: '个人简介占位',
   links: [
     {
       name: 'GitHub',
